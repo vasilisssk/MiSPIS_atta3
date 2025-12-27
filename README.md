@@ -14,11 +14,17 @@
 ### 1. Диаграмма прецендентов
 ![Use Case Diagram](UnivSistem/uml_diagrams/Use_Case.jpg)
 
-### 2. Диаграмма классов
-![Class Diagram](UnivSistem/uml_diagrams/Class_Diagram_1.jpg)
+### 2. Диаграмма классов (Forward)
+![Class Diagram](UnivSistem/uml_diagrams/Class_Diagram_Forward.jpg)
 
-### 3. Диаграмма последовательностей
+### 3. Диаграмма классов (Reverse)
+![Class Diagram](UnivSistem/uml_diagrams/Class_Diagram_Reverse.jpg)
+
+### 4. Диаграмма последовательностей
 ![Sequence Diagram](UnivSistem/uml_diagrams/Sequence_Diagram.jpg)
+
+### 5. Диаграмма активности
+![Activity Diagram](UnivSistem/uml_diagrams/Activity_Diagram.jpg)
 
 ## Результат выполнения программы
 ![Скриншот выполнения](Screenshots/result.jpg)
